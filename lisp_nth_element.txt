@@ -1,0 +1,2 @@
+(loop for i from 0 to 4
+   do (format t "~D~%" nth i (list 1 2 3 4) ))
